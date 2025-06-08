@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning *Solana & Blockchain Development *
 - 💬 Ask me about **Java, Node.js, React...or anything about Computer Vision  [here](https://thedevsurujx@gmail.com)**
+- Except for Programming am a musician who loves to play anything on his hand
+- Love Indie Filmmaking scifi stories 
 
 <br>
 
@@ -43,8 +45,7 @@
 
 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v15/icons/[ICON SLUG].svg" />
+
 
 
 
