@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning *Solana & Blockchain Development *
-- 💬 Ask me about **Java, Node.js, React...or anything about Computer Vision  [here](https://github.com/SURUJ404)**
+- 💬 Ask me about **Java, Node.js, React...or anything about Computer Vision  [here](https://thedevsurujx@gmail.com)**
 
 <br>
 
