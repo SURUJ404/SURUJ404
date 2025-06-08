@@ -43,12 +43,8 @@
 
 
 
-
-## 🚀 GitHub Logo Animation with Red Hat Programming Theme
-
-<p align="center">
-  <img src="https://imgflip.com/gif/9wc4f7" width="200" alt="GitHub Logo with Red Hat Programming Theme" />
-</p>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v15/icons/[ICON SLUG].svg" />
 
 
 
