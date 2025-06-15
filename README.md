@@ -3,11 +3,15 @@
 </h1>
 
 
+🌱 Currently diving into Solana and Blockchain Development
 
-- 🌱 I’m currently learning *Solana & Blockchain Development *
-- 💬 Ask me about **Java, Node.js, React...or anything about Computer Vision  [here](https://thedevsurujx@gmail.com)**
-- Except for Programming am a musician who loves to play anything on his hand
-- Love Indie Filmmaking scifi stories 
+💬 Happy to chat about Java, Node.js, React, or Computer Vision — always up for a good tech conversation
+
+🎵 Musician at heart — love experimenting with any instrument I get my hands on
+
+🎬 Big fan of indie filmmaking and sci-fi storytelling
+
+🤝 Feel free to reach out for collaboration or project opportunities — always excited to build something impactful
 
 <br>
 
