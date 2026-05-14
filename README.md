@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=800&height=70&color=FFFFFF&duration=4000&lines=Hi+There;I'm+Suruj+Kalita;Building+Scalable+Systems;AI+Web3+Cloud+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=850&height=70&color=FFFFFF&duration=4000&lines=Hi+There;I'm+Suruj+Kalita;Building+Scalable+Systems;AI+Web3+Cloud+Infrastructure" />
 </h1>
 
 <h3 align="center">
@@ -12,7 +12,7 @@ Software Engineer • DevOps • AI • Machine Learning • Web3
 
 Experience of 3+ years working across scalable applications, cloud infrastructure, AI systems, automation platforms, and decentralized technologies.
 
-Worked on SaaS products, backend infrastructures, distributed systems, deployment pipelines, blockchain integrations, smart contracts, DApps, and system architecture.
+Worked on SaaS platforms, backend infrastructures, distributed systems, deployment pipelines, blockchain integrations, smart contracts, DApps, and system architecture.
 
 Hands-on exposure to cloud-native technologies, microservices, DevOps workflows, AI/ML systems, full stack engineering, and high-performance application design.
 
@@ -40,8 +40,12 @@ Focused on building production-ready software systems, modern digital platforms,
     <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <a href="https://github.com/HackSprint" target="_blank">
-    <img src="https://img.shields.io/badge/Organization-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://hacksprint.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/HackSprint-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="https://hacksprint.xyz/consulting/?v=5eb6b3df0442" target="_blank">
+    <img src="https://img.shields.io/badge/Book%20Consulting-0D1117?style=for-the-badge&logo=calendly&logoColor=white" />
   </a>
 
 </div>
@@ -83,3 +87,29 @@ Automation Frameworks
 Scalable SaaS Platforms
 Web3 Ecosystems
 Distributed Architectures
+```
+
+---
+
+## Philosophy
+
+```bash
+Building on core technology
+Wrapping around what already exists
+Infrastructure-first thinking
+Scalable and production-ready systems
+
+We got you covered
+```
+
+---
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExam00cmRidDFvbnZzc2l5YnFqMDBld2dleGoxZmJ0ejhpeTg1aHFmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0NTG9ffrXT870Wt9qv/giphy.gif" width="80%" />
+</div>
+
+---
+
+<h3 align="center">
+Systems • Infrastructure • Innovation
+</h3>
