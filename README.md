@@ -52,6 +52,12 @@ Focused on building production-ready software systems, modern digital platforms,
 
 ---
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExam00cmRidDFvbnZzc2l5YnFqMDBld2dleGoxZmJ0ejhpeTg1aHFmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0NTG9ffrXT870Wt9qv/giphy.gif" width="80%" />
+</div>
+
+---
+
 ## Domains
 
 - Artificial Intelligence  
@@ -101,12 +107,6 @@ Scalable and production-ready systems
 
 We got you covered
 ```
-
----
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExam00cmRidDFvbnZzc2l5YnFqMDBld2dleGoxZmJ0ejhpeTg1aHFmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0NTG9ffrXT870Wt9qv/giphy.gif" width="80%" />
-</div>
 
 ---
 
