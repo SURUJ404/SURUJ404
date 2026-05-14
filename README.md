@@ -10,13 +10,13 @@ Software Engineer • DevOps • AI • Machine Learning • Web3
 
 <div align="center">
 
-Experience of 3+ years working across scalable applications, cloud infrastructure, AI systems, automation platforms, and decentralized technologies.
+Engineering experience spanning scalable application development, cloud infrastructure, AI systems, automation platforms, and decentralized technologies.
 
-Worked on SaaS platforms, backend infrastructures, distributed systems, deployment pipelines, blockchain integrations, smart contracts, DApps, and system architecture.
+Strong focus on SaaS architecture, backend systems, distributed computing, deployment pipelines, blockchain integration, smart contracts, DApp ecosystems, and system design.
 
-Hands-on exposure to cloud-native technologies, microservices, DevOps workflows, AI/ML systems, full stack engineering, and high-performance application design.
+Hands-on exposure to cloud-native architectures, microservices, DevOps workflows, AI/ML-driven systems, full-stack development, and high-performance application engineering.
 
-Focused on building production-ready software systems, modern digital platforms, and scalable infrastructure solutions.
+Committed to building production-grade software systems, scalable digital platforms, and robust infrastructure solutions with modern engineering practices.
 
 </div>
 
