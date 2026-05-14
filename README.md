@@ -97,18 +97,7 @@ Distributed Architectures
 
 ---
 
-## Philosophy
 
-```bash
-Building on core technology
-Wrapping around what already exists
-Infrastructure-first thinking
-Scalable and production-ready systems
-
-We got you covered
-```
-
----
 
 <h3 align="center">
 Systems • Infrastructure • Innovation
