@@ -7,14 +7,7 @@ Software Engineer • DevOps • AI • Machine Learning • Web3
 </h3>
 
 <br>
-<div align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhhMXNydGk0ODkwbGhuemMwMjM5Z216aWlsYTB4N2ZoaXh1MDZmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0U7bWQK9s75PjRKcHz/giphy.gif"
-    width="100%"
-    alt="banner gif"
-  />
-</div>
-<div align="center">
+
 
 
 </div>
