@@ -10,7 +10,6 @@ Software Engineer • DevOps • AI • Machine Learning • Web3
 
 <div align="center">
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF1M2hqbmlxaXE0M3VkeDFqN29jcXhuNXdmM3d4cXVlZmlpZzVpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYPWj8QHG7FAgpy/giphy.gif
 
 </div>
 
