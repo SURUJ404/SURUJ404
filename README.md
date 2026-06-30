@@ -32,7 +32,7 @@ Software Engineer • DevOps • AI • Machine Learning • Web3
     <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <a href="https://hacksprint.xyz/" target="_blank">
+  <a href="https://hacksprint.net/" target="_blank">
     <img src="https://img.shields.io/badge/HackSprint-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
