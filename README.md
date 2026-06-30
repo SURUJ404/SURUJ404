@@ -36,7 +36,7 @@ Software Engineer • DevOps • AI • Machine Learning • Web3
     <img src="https://img.shields.io/badge/HackSprint-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
-  <a href="https://hacksprint.xyz/consulting/?v=5eb6b3df0442" target="_blank">
+  <a href="https://hacksprint.net/consulting/?v=5eb6b3df0442" target="_blank">
     <img src="https://img.shields.io/badge/Book%20Consulting-0D1117?style=for-the-badge&logo=calendly&logoColor=white" />
   </a>
 
