@@ -16,7 +16,7 @@ Software Engineer • DevOps • AI • Machine Learning • Web3
 
 <div align="center">
   
-  <a href="mailto:mrsurujx@hacksprint.xyz">
+  <a href="mailto:mrsuruj@hacksprint.net">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
