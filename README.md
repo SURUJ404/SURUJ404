@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Software Engineer • DevOps • AI • Machine Learning • Web3
+Software Engineer • DevOps • AI • Machine Learning • Web3 * Rust Engineer * Low Latency Trading System
 </h3>
 
 <br>
